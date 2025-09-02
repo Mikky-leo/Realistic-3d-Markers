@@ -54,17 +54,12 @@ git clone https://github.com/Mikky-leo/css-3d-markers.git
 cd css-3d-markers
 ```
 3. **Open the `index.html` file in your web browser:**
-
--You can simply double-click the file, or
-
--Use a local development server (e.g., with VS Code's Live Server extension).
+   -You can simply double-click the file, or
+   -Use a local development server (e.g., with VS Code's Live Server extension).
 
 ## What I Learned & Demonstrated
-How to manipulate gradients and shadows to create the illusion of three-dimensional objects.
-
-The practical differences and use cases for HSL vs. RGB color models.
-
-The importance of providing alternative text for non-decorative graphics.
-
-Modern UI trends like glassmorphism and how to implement them with CSS.
+-How to manipulate gradients and shadows to create the illusion of three-dimensional objects.
+-The practical differences and use cases for HSL vs. RGB color models.
+-The importance of providing alternative text for non-decorative graphics.
+-Modern UI trends like glassmorphism and how to implement them with CSS.
 
