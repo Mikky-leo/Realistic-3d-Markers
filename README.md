@@ -42,7 +42,7 @@ css-3d-markers/
 ├── color.css           # Main stylesheet with all visual effects
             
     
-How to Run Locally
+🛠️ How to Run Locally
 Clone the repository:
 
 bash
@@ -56,7 +56,6 @@ Open the index.html file in your web browser:
 You can simply double-click the file, or
 
 Use a local development server (e.g., with VS Code's Live Server extension).
-
 What I Learned & Demonstrated
 How to manipulate gradients and shadows to create the illusion of three-dimensional objects.
 
