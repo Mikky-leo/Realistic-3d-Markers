@@ -1,0 +1,67 @@
+body {
+  background: linear-gradient(135deg, #2c3e50, #1a1a2e); 
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+  color: #ecf0f1;
+}
+
+
+
+h1{
+    text-align:center;
+}
+.marker{
+    width: 200px;
+    height:25px;
+    margin: 10px auto;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.1); 
+    padding: 20px;
+    border-radius: 8px; 
+    backdrop-filter: blur(4px); 
+}
+    
+    
+
+.red{
+    background: linear-gradient(180deg, rgb(122,74,14)0%, rgb(245,62,113)50%, rgb(162,27,27)100%);
+    box-shadow: 0 0 20px 0 rgba(83,14,14,0.8);
+}
+.green{
+    background:linear-gradient(180deg, #55680D, #71F53E, #116C31 );
+    box-shadow: 0 0 20px 0 #3B7E20CC;
+}
+.blue{
+    background: linear-gradient(hsl(186,76%,16%), hsl(223,90%,60%), hsl(240,56%,42%));
+    box-shadow: 0 0 20px 0 hsla(223,59%, 31%, 0.8%);
+}
+
+.sleeve{
+    width:110px;
+    height:25px;
+    background-color: rgba(255,255,255,0.5);
+    
+    border-left: 10px double rgba(0,0,0,75%);
+}
+.cap{
+    width:60px;
+    height: 25px; 
+}
+.cap, .sleeve{
+    display:inline-block;
+}
+
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
