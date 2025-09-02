@@ -36,14 +36,14 @@ Accessibility Included: Implements screen-reader-only text to describe the visua
 Fully Responsive: Maintains its visual integrity across different screen sizes.
 
 📁 Project Structure
-text
+```
 css-3d-markers/
 ├── index.html          # Main HTML file
 ├── color.css           # Main stylesheet with all visual effects
-            
+```        
     
-🛠️ How to Run Locally
-Clone the repository:
+## How to Run Locally
+1. Clone the repository:
 
 bash
 git clone https://github.com/Mikky-leo/css-3d-markers.git
