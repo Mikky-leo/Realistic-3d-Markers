@@ -59,7 +59,10 @@ cd css-3d-markers
 
 ## What I Learned & Demonstrated
 -How to manipulate gradients and shadows to create the illusion of three-dimensional objects.
+
 -The practical differences and use cases for HSL vs. RGB color models.
+
 -The importance of providing alternative text for non-decorative graphics.
+
 -Modern UI trends like glassmorphism and how to implement them with CSS.
 
